@@ -12,6 +12,15 @@
 + 2017: Year
 + 2018: Year
 
+#### Purpose:
+
+Using statistics, apply different calculations to measure insights such as:
+
++ Countries that average the highest/lowest spending
++ Countries above and below average
++ Grouping coutries by percentiles
++ More to add as the project progresses
+
 #### What concepts will be practiced?
 
 + Estimates of Location
