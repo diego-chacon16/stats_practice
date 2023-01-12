@@ -1,5 +1,8 @@
 ## Practicing Business Statistics with the Book: Practical Statistics for Data Scientists
 
+<iframe src="https://giphy.com/embed/l3fZLMbuCOqJ82gec" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/filmeditor--the-hangover-movie-l3fZLMbuCOqJ82gec">via GIPHY</a></p>
+
+
 ### To practice, the dataset used will be a breakdown of Military Expenditure by Country from 2016-2018
 
 #### The Dataset includes the following fields:
