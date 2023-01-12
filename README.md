@@ -1,6 +1,6 @@
 ## Practicing Business Statistics with the Book: Practical Statistics for Data Scientists
 
-<img src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif" width="400" height="200"/>
 
 ### To practice, the dataset used will be a breakdown of Military Expenditure by Country from 2016-2018
 
