@@ -14,9 +14,9 @@
 + 2017: Year
 + 2018: Year
 
-#### Purpose:
+## Purpose:
 
-### As a data scientist, it is important to have a solid understanding of basic probability and statistics concepts, such as:
+#### As a data scientist, it is important to have a solid understanding of basic probability and statistics concepts, such as:
 
 + Probability distributions (e.g. normal, binomial, Poisson)
 + Descriptive statistics (e.g. mean, median, mode, variance, standard deviation)
