@@ -6,13 +6,10 @@
 
 #### The Dataset includes the following fields:
 
-+ Name: Name of the Country, Grouped Regional or Semi-autonomous Power
-+ Abbreviation: Abbrevation of Country, Region or Semi-autonomous Power
-+ Type: Country, Grouped Regional or Semi-autonomous Power
-+ Indicator Name: Financial Indicator ($ USD)
-+ 2016: Year 
-+ 2017: Year
-+ 2018: Year
++ Name: Name of the State in the United States
++ Population: The Total Population residing within each State
++ Murder Rate: Murder Rate for every 100,000 people
++ Abbreviation: The abbreviation of the US State
 
 ## Purpose:
 
@@ -28,9 +25,9 @@
 
 Using Descriptive Statistics, apply different calculations to measure insights such as:
 
-+ Countries that average the highest/lowest spending
-+ Countries above and below average
-+ Grouping coutries by percentiles
++ Mean, Median Populations by State in the US
++ Weighted Mean on Murder State with the weight being the Population
++ Grouping coutries by percentiles, visualizing and understanding the distribution
 + More to add as the project progresses
 
 #### What concepts will be practiced?
