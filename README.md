@@ -4,7 +4,7 @@
 
 ## Purpose:
 
-#### As a data scientist, it is important to have a solid understanding of basic probability and statistics concepts, such as:
+### As a data scientist, it is important to have a solid understanding of basic probability and statistics concepts, such as:
 
 + Probability distributions (e.g. normal, binomial, Poisson)
 + Descriptive statistics (e.g. mean, median, mode, variance, standard deviation)
@@ -24,14 +24,14 @@
 6. Statistical Machine Learning
 7. Unsupervised Machine Learning
 
-Using Descriptive Statistics, apply different calculations to measure insights such as:
+### Using Descriptive Statistics, apply different calculations to measure insights such as:
 
 + Mean, Median Populations by State in the US
 + Weighted Mean on Murder State with the weight being the Population
 + Grouping coutries by percentiles, visualizing and understanding the distribution
 + More to add as the project progresses
 
-#### What concepts will be practiced?
+### What concepts will be practiced?
 
 + Estimates of Location
 + Estimates of Variability
