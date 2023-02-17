@@ -23,17 +23,3 @@
 5. Classification
 6. Statistical Machine Learning
 7. Unsupervised Machine Learning
-
-### Using Descriptive Statistics, apply different calculations to measure insights such as:
-
-+ Mean, Median Populations by State in the US
-+ Weighted Mean on Murder State with the weight being the Population
-+ Grouping coutries by percentiles, visualizing and understanding the distribution
-+ More to add as the project progresses
-
-### What concepts will be practiced?
-
-+ Estimates of Location
-+ Estimates of Variability
-+ Exploring Data Distribution
-+ Binary and Categorical Data
